@@ -1,0 +1,120 @@
+vagvagrant ssh
+vagrant ssh
+vmpruebas
+help
+uptime
+exit
+vagrant lslsls
+ls - ls
+lsb_release -a
+cd repogit/
+cd TP_AySO/
+ls -l
+git status
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l
+git status
+git add datos_usuario.txt 
+git status 
+git add. datos_usuario.txt
+git add datos_usuario.txt 
+git commit -a datos_usuario.txt 
+git commit datos_usuario.txt 
+git add 
+git add.
+git .ad
+git add .
+git status
+git commit -m "ADD: agregado  1er ejercicio sobre datos_usuarios.txt"
+ls-l
+ls -l
+"datos_usuario.txt"
+/proc/
+/proc/sysvipc/
+grep -i Home_url /etc/os-release
+/proc/cpuinfo
+cat /proc/cpuinfo
+grep "model name" tail -n25 >> datos_usuario.txt 
+cat /proc/cpuinfo grep "model name" tail -n25 >> datos_usuario.txt 
+ls -l
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cat datos_usuario.txt 
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m “FEAT: Añadiendo información de CPU”
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU”
+
+
+git status
+.git/
+datos_usuario.txt 
+
+cd
+cd datos_usuario.txt 
+/
+git commit -m "feat: Añadiendo información de CPU"
+git status
+q
+Q:
+cd
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU”
+git status
+.git/
+datos_usuario.txt 
+cd
+cd datos_usuario.txt 
+/
+git commit -m "feat: Añadiendo información de CPU"
+git status
+q
+Q:
+cd
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+cd repogit/
+cd TP_AySO/
+ls -l
+git status
+git commit -m "feat: Añadiendo informacion de CPU"
+git status
+grep -v "nologin" /etc/passwd | head -n10
+grep -v "nologin" /etc/passwd | head -n12
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+ls
+cat lista_ordenada 
+git add .
+git commit -m "ADD: Listado de usuarios ordenada"
+man -k dump traffic
+tcpdump 
+echo "tcpdump" > comando_dump_net
+ls
+cat comando_dump_net 
+echo "Para realizar la busqueda utilize man -k dump traffic" >> comando_dump_net 
+cat comando_dump_net 
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+man -k heredoc
+cat << EOF > README.md 
+Alumno: Ivan Caceres
+Division : 318 
+Turno: Noche
+EOF
+
+cat README.md 
+git add .
+git commit -m  "ADD: Agregado datos del alumno"
+git status
+git log
+git reset --soft HEAD~
+git log
+git commit -m  "docs : Agregado datos del alumno en README.md"
+git status
+history
+history -a $HOME/.bash_history
